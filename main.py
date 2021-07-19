@@ -1,3 +1,3 @@
 print('gorbal')
 a = [A, B, C]
-print(A)
+print(a)
